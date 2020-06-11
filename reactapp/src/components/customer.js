@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {Component} from 'react';
 
 function Customer(){
     return(
@@ -8,7 +8,7 @@ function Customer(){
             <p>0101234567</p>
             <p>잠실여고</p>
         </div>
-    )
+    );
 }
 
 export default Customer;
