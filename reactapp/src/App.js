@@ -1,5 +1,5 @@
 import React from 'react';
-import Customer from './components/customer'
+import logo from './logo.svg';
 import './App.css';
 
 function App() {
