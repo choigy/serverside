@@ -8,4 +8,7 @@ package-lock.json
 package.json
 
 #database
-/database.json
+my data.session.sql
+
+#database
+MySQL.session.sql
