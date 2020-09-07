@@ -237,6 +237,7 @@ function App(props) {
               <TableCell align="right">아이디</TableCell>
               <TableCell align="right">고등학교</TableCell>
               <TableCell align="right">전화번호</TableCell>
+              <TableCell align="right">이메일</TableCell>
             </TableRow>
           </TableHead>
           <TableBody>
