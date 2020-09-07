@@ -14,6 +14,7 @@ function Students(props){
               <TableCell align="right">{props.displayname}</TableCell>
               <TableCell align="right">{props.highschool}</TableCell>
               <TableCell align="right">{props.phone}</TableCell>
+              <TableCell align="right">{props.email}</TableCell>
         </TableRow>
     );
 }

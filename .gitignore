@@ -12,3 +12,6 @@ my data.session.sql
 
 #database
 MySQL.session.sql
+
+#file
+google.json
